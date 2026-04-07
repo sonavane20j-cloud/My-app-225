@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Sindhu Ghati Sabhyata ka sabse bada shahar kaunsa tha?",
+    "options": ["Harappa", "Mohenjo-daro", "Lothal", "Dholavira"],
+    "answer": "Mohenjo-daro"
+  },
+  {
+    "question": "Rigveda kis bhasha me likha gaya tha?",
+    "options": ["Sanskrit", "Pali", "Prakrit", "Hindi"],
+    "answer": "Sanskrit"
+  },
+  {
+    "question": "Arya Bharat me kahan se aaye the?",
+    "options": ["Europe", "Central Asia", "China", "Africa"],
+    "answer": "Central Asia"
+  },
+  {
+    "question": "Buddh ka janm kahan hua tha?",
+    "options": ["Lumbini", "Bodh Gaya", "Sarnath", "Kushinagar"],
+    "answer": "Lumbini"
+  },
+  {
+    "question": "Mahavira ka sambandh kis dharm se hai?",
+    "options": ["Buddhism", "Jainism", "Hinduism", "Sikhism"],
+    "answer": "Jainism"
+  },
+  {
+    "question": "Chandragupta Maurya ka guru kaun tha?",
+    "options": ["Kalidas", "Chanakya", "Tulsidas", "Aryabhata"],
+    "answer": "Chanakya"
+  },
+  {
+    "question": "Ashoka ka Kalinga yudh kab hua?",
+    "options": ["261 BC", "300 BC", "150 BC", "200 BC"],
+    "answer": "261 BC"
+  },
+  {
+    "question": "Gupta kal ko kis naam se jana jata hai?",
+    "options": ["Golden Age", "Dark Age", "Modern Age", "Stone Age"],
+    "answer": "Golden Age"
+  },
+  {
+    "question": "Zero ka avishkar kisne kiya?",
+    "options": ["Aryabhata", "Newton", "Einstein", "Galileo"],
+    "answer": "Aryabhata"
+  },
+  {
+    "question": "Nalanda Vishwavidyalaya kis rajya me tha?",
+    "options": ["Bihar", "UP", "MP", "Delhi"],
+    "answer": "Bihar"
+  }
+]
